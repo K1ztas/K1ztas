@@ -6,7 +6,7 @@
 💡 I am current learning C++ <br>
 📠 Here is my discord: Kiztas#6804,  if you want contact me! <br>
   <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-WBbI8m0gKWCJthpJlmfxYVuL-1Co5QEuQ&usqp=CAU" align="right">
+  <!--img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-WBbI8m0gKWCJthpJlmfxYVuL-1Co5QEuQ&usqp=CAU" align="right"-->
   </div>
   
   <br>
