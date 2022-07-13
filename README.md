@@ -11,3 +11,10 @@
 <b>Loves:</b> Tech, Anime, Games <br>
 <b>Stacks:</b> C++ ... <br>
 <b>Learning:</b> C++ <br>
+
+<div>
+<a href="https://github.com/GustaveGH">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1ztas&amp;show_icons=true&amp;theme=calm&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ztas&amp;layout=compact&amp;langs_count=7&amp;theme=calm" style="max-width: 100%;">
+</a>
+</div>
