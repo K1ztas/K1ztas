@@ -5,7 +5,7 @@
 📖 You can ask me about tech and some games! :) <br>
 💡 I am current learning C++ <br>
 📠 Here is my discord: Kiztas#6804,  if you want contact me! <br>
-<img style="width=5%" src="https://i.pinimg.com/564x/e4/5f/8b/e45f8ba6064189c06d998cd6bd8df871.jpg">
+<img style="margin-left: 100px;" src="https://i.pinimg.com/564x/e4/5f/8b/e45f8ba6064189c06d998cd6bd8df871.jpg">
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
 <b>Name:</b> Kiztas <br>
