@@ -14,7 +14,7 @@
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
   <div align="center">
-<img class="hehehehaw" src="https://wallpapersmug.com/download/1440x2630/961d98/blonde-SAO-Asuna-Yuuki.jpg" align="right">
+<img src="http://pm1.narvii.com/7314/a11ba9d8066df1f118af1f0f2cd0d0b88d0c3d57r1-635-794v2_uhq.jpg" align="right">
   </div>
 <li>
 <b>Name:</b> Kiztas <br>
@@ -36,6 +36,4 @@
 </a>
 </div>
 
-.hehehehaw{
-width: 30%
-}
+
