@@ -14,7 +14,7 @@
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
   <div align="center">
-<img src="http://pm1.narvii.com/7314/a11ba9d8066df1f118af1f0f2cd0d0b88d0c3d57r1-635-794v2_uhq.jpg" align="right">
+<img src="https://i.imgur.com/9X04sZY.jpg" align="right">
   </div>
 <li>
 <b>Name:</b> Kiztas <br>
