@@ -13,7 +13,9 @@
 
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
+<li>
 <b>Name:</b> Kiztas <br>
+</li>
 <b>Loves:</b> Tech, Anime, Games <br>
 <b>Stacks:</b> C++ ... <br>
 <b>Learning:</b> C++ <br> <br>
