@@ -16,9 +16,15 @@
 <li>
 <b>Name:</b> Kiztas <br>
 </li>
+<li>
 <b>Loves:</b> Tech, Anime, Games <br>
-<b>Stacks:</b> C++ ... <br>
+</li>
+<li>
+ <b>Stacks:</b> C++ ... <br>
+</li>
+<li>
 <b>Learning:</b> C++ <br> <br>
+</li>
 
 <div>
 <a href="https://github.com/GustaveGH">
