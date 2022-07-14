@@ -14,7 +14,7 @@
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
   <div align="center">
-<img src="https://wallpapersmug.com/download/1440x2630/961d98/blonde-SAO-Asuna-Yuuki.jpg" align="right">
+<img class="hehehehaw" src="https://wallpapersmug.com/download/1440x2630/961d98/blonde-SAO-Asuna-Yuuki.jpg" align="right">
   </div>
 <li>
 <b>Name:</b> Kiztas <br>
@@ -35,3 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ztas&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 60%;">
 </a>
 </div>
+
+.hehehehaw{
+width: 30%
+}
