@@ -13,7 +13,7 @@
 
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
-<p><b>Name:</b> Kiztas </p><br>
+<b>Name:</b> Kiztas <br>
 <b>Loves:</b> Tech, Anime, Games <br>
 <b>Stacks:</b> C++ ... <br>
 <b>Learning:</b> C++ <br> <br>
