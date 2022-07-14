@@ -27,7 +27,7 @@
 </li>
 
 <div>
-<a href="https://github.com/GustaveGH">
+<a href="https://github.com/K1ztas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1ztas&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width: 60%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ztas&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 60%;">
 </a>
