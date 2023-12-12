@@ -19,7 +19,7 @@
 
 <h1 align="center">𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!</h1>
   <div align="center">
-<img src="https://im2.ezgif.com/tmp/ezgif-2-5b4684c451.gif" align="right">
+<img src="[https://im2.ezgif.com/tmp/ezgif-2-5b4684c451.gif](https://i.gifer.com/EofK.gif)" align="right">
   </div>
 <li>
 <b>Name:</b> Kiztas <br>
